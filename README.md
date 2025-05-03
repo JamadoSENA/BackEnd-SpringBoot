@@ -5,7 +5,7 @@ Este es el repositorio del frontend de la aplicación **ProductInventory**, desa
 Requisitos previos:
 
 - Asegúrate de tener instalado:
-Java JDK 17 (o la versión usada en el proyecto)
+Java JDK 17
 Maven 3.8+
 IDE como IntelliJ IDEA
 
